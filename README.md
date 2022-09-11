@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahdipourarasteh
-- 👀 I’m interested in Python, Data Analyse, Artificial Inteligence, MySQL
+- 👀 I’m interested in Python, Data Analyse, Artificial Intelligence, MySQL
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Altificial Intelligence or Data Analyse with Python
 - 📫 How to reach me m.mahdipour.arasteh@gmail.com
 
 <!---
